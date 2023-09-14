@@ -1,8 +1,8 @@
 ---
-layout: San Hae Im
-title: PhD student
+layout: about
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student
 
 profile:
   align: right
