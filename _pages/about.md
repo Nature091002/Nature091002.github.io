@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>220, E6-6</p>
+    <p>220, E6-6, KAIST</p>
     <p>291, Daehak-ro</p>
     <p>Yuseong-gu, Daejeon</p>
 
