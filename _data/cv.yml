@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: San Hae Im
+      value: Albert Einstein
     - name: Date of Birth
-      value: 21th September 1995
+      value: 14th March 1879
     - name: Languages
-      value: Korean, English
+      value: English, German
 
 - title: Education
   type: time_table

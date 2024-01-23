@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "San Hae Im",
+    "label": "Ph.D.",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "nature091002@kaist.ac.kr",
+    "phone": "(+82) 10-5474-3740",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "KAIST, 291, Daehak-ro, Yuseong-gu",
+      "postalCode": "34141",
+      "city": "Daejeon",
+      "countryCode": "Republic of Korea",
+      "region": "Daejeon"
     },
     "profiles": [
       {
@@ -38,10 +38,10 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
+      "institution": "Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "",
