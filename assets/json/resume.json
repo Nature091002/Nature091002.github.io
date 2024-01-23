@@ -40,10 +40,10 @@
     {
       "institution": "Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "area": "Nanomedicine",
       "studyType": "Ph.D.",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2017-03-01",
+      "endDate": "2024-02-16",
       "score": "",
       "courses": [
         "Theory of Relativity"
@@ -52,10 +52,16 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "title": "KAIST Q-Day Student Special Awards (Category: Advanced Research)",
+      "date": "Nov. 2023",
+      "awarder": "Korea Advanced Institute of Science and Technology",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+    {
+      "title": "KAIST Q-Day Student Special Awards (Category: Advanced Research)",
+      "date": "Nov. 2023",
+      "awarder": "Korea Advanced Institute of Science and Technology",
+      "summary": 
     }
   ],
   "certificates": [],
@@ -63,7 +69,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker"
     },
     {
