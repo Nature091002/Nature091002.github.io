@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student
+subtitle: Ph.D.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I completed my undergraduate course in the Division of Life Sciences at Korea University and obtained my Ph.D. degree in the Department of Life Sciences at KAIST under my advisor, Prof. Hyun jung Chung. During my integrated master's and Ddtoral program, I studied on the topic of "Engineered nanoparticle systems for gene therapeutic and diagnostics." First, cancer therapy through delivery of CRISPR/Cas9 system in the form of ribonucleoprotein (RNP) using lipid nanoparticles (LNP). Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
