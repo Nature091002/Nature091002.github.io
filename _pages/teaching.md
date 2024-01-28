@@ -5,18 +5,22 @@ title: presentation
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 5
----
 
-- title: General Information
-  type: map
+- title: Honors, Awards and Scholar
+  type: time_table
   contents:
-    - name: Full Name
-      value: San Hae Im
-    - name: Date of Birth
-      value: 21th September 1995
-    - name: Languages
-      value: Korean, English
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+    - year: Nov. 2023
+      items: 
+        - KAIST Q-Day Student Special Awards (Category:</u> Advanced Research)
+    - year: Dec. 2022
+      items: 
+        - Wooduk Foundation Scholarship
+    - year: May. 2019
+      items: 
+        - Excellent Paper Presentation Award (The Korean Society of Industrial and Engineering Chemistry (KSIEC))
+    - year: Oct. 2016
+      items: 
+        - Synthetic Biology iGEM Competition (Gold prize)
+    - year: Feb. 2012
+      items: 
+        - The 18th Samsung Electronics Humantech Thesis Prize (Bronze prize) 
