@@ -18,7 +18,7 @@
         - Department of Biological Sciences
         - Integrated Master's and Doctoral Program
 
-    - title: B.S.
+    - title: B.Sc.
       institution: Korea University (KU), Seoul, Republic of Korea
       year: Mar.2013-Feb.2017
       description:
@@ -38,7 +38,7 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Republic of Korea
       year: Feb.2024-Current
 
-- title: Honors and Awards
+- title: Honors, Awards and Scholar
   type: time_table
   contents:
     - year: Nov. 2023
@@ -56,19 +56,6 @@
     - year: Feb. 2012
       items: 
         - The 18th Samsung Electronics Humantech Thesis Prize (Bronze prize)        
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Advanced CRISPR/Cas9 system delivery 
-      items: 
-        - Lipid nanoparticle (LNP) based CRISPR/Cas9 (RNP) delivery
-        - Bio conjugation of CRISPR/Cas9 (RNP) system
-    - title: 
-      items:
-        - Description 1.
-        - Description 2.
-
 - title: Other Interests
   type: list
   contents:
