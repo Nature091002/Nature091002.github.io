@@ -55,7 +55,21 @@
         - Synthetic Biology iGEM Competition (Gold prize)
     - year: Feb. 2012
       items: 
-        - The 18th Samsung Electronics Humantech Thesis Prize (Bronze prize)        
+        - The 18th Samsung Electronics Humantech Thesis Prize (Bronze prize)   
+
+- title: Patents
+  type: time_table
+  contents:
+    - year: 2021
+      items: 
+        - Genome Editing Protein Randomly Incorporated with Unnatural Amino Acid and Biorthogonal Complex Delivery
+    - year: 2021
+      items: 
+        - Effective Delivery of mRNA by Modification with Lipid and Lipid Nanoparticles
+    - year: 2019
+      items: 
+        - Lipid Conjugate of CRISPR Protein for Gene Delivery    
+
 - title: Other Interests
   type: list
   contents:
