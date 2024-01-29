@@ -50,13 +50,37 @@
       ]
     }
   ],
-  "awards": [
+  "Honors, Awards and Scholar": [
     {
       "title": "KAIST Q-Day Student Special Awards (Category: Advanced Research)",
       "date": "Nov. 2023",
       "awarder": "Korea Advanced Institute of Science and Technology",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": "Venture Research Program for Graduate and PhD Students.'"
     }
+    {
+      "title": "Wooduk Foundation Scholarship",
+      "date": "Dec. 2022",
+      "awarder": "Wooduk Foundation",
+      "summary": 
+    }
+    {
+      "title": "Excellent Paper Presentation Award",
+      "date": "May. 2019",
+      "awarder": "The Korean Society of Industrial and Engineering Chemistry (KSIEC)",
+      "summary": "Title: Lipid Conjugates of Cas9 for Therapeutic Genome Editing in Cancer.'"
+    }
+    {
+      "title": "Synthetic Biology iGEM Competition (Gold prize)",
+      "date": "Oct. 2016",
+      "awarder": "iGEM Foundation",
+      "summary": "[Geletricel] (https://2016.igem.org/Team:Korea_U_Seoul/Main)'"
+    }
+    {
+      "title": "The 18th Samsung Electronics Humantech Thesis Prize (Bronze prize)",
+      "date": "Feb. 2012",
+      "awarder": "Samsung Electronics",
+      "summary": 
+    } 
   ],
   "certificates": [],
   "publications": [],
