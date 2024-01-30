@@ -61,20 +61,7 @@
                 </a>
               </li>
               {%- endif %}
-
-              <style>
-                /* Style for active nav-item */
-                .nav-item.active .nav-link {
-                    color: red; /* Example: red color for active state */
-                }
-                /* Style for all nav-links */
-                .nav-link {
-                    color: blue; /* Example: blue color for normal state */
-                }
-              </style>
               
-              <!-- Your existing HTML for navbar -->
-              <nav>
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
