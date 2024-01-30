@@ -7,8 +7,8 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<h6><a href="https://scholar.google.com/citations?user=IlCpbvkAAAAJ&hl=ko" style="color: blue;">Link to Google Scholar</a></h6>
-<h6 style="color: red;">+: co-first authors</h6>
+<h6><a href="https://scholar.google.com/citations?user=IlCpbvkAAAAJ&hl=ko" style="color: rgb(16,93, 215);">Link to Google Scholar</a></h6>
+<h6 style="color: rgb(0, 0, 0);">+: co-first authors</h6>
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
