@@ -9,12 +9,12 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <style>
     .co-first-authors {
-        color: rgb(0, 0, 0); /* Default color for light mode (black) */
+        color: rgb(255, 255, 255); /* Default color for dark mode (white) */
     }
 
-    @media (prefers-color-scheme: dark) {
+    @media (prefers-color-scheme: light) {
         .co-first-authors {
-            color: rgb(255, 255, 255); /* Color for dark mode (white) */
+            color: rgb(0, 0, 0); /* Color for light mode (black) */
         }
     }
 </style>
