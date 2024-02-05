@@ -25,4 +25,3 @@ My research focused on the topic of "Engineered nanoparticle systems for gene th
 
 Currently, I am working on the development of an effective CRISPR/Cas9 mRNA delivery system via lipid nanoparticles for cancer therapy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
