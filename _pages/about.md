@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I completed my Ph.D. degree in the Department of Life Sciences at Korea Advanced Institute of Science and Technology (KAIST) under my advisor, [Prof. Hyun jung Chung](http://nanomedicine.kaist.ac.kr/professor/). 
+I completed my Ph.D. degree in the Department of Biological Sciences at Korea Advanced Institute of Science and Technology (KAIST) under my advisor, [Prof. Hyun jung Chung](http://nanomedicine.kaist.ac.kr/professor/). 
 
 My research focused on the topic of "Engineered nanoparticle systems for gene therapeutic and diagnostics." More specifically, I studied advanced nanoparticle systems for CRISPR/Cas9 cancer therapy, mRNA vaccination, and antibiotic-resistant bacteria detection. 
 
